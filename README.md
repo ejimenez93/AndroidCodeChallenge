@@ -46,7 +46,7 @@ The response from the API above doesn't include "Venues" but a mock "Venue" obje
 If more time was allowed, I would also revamp the UI a bit with more branding colors and specific fonts used by a company's brand.
 
 # Code Organization
-[logo]: https://photos-1.dropbox.com/t/2/AAB0vlqQITP6TD8VOhwJKOCbtbhwxl0KdaKY_h6Ah1Xu1g/12/58481139/png/32x32/1/_/1/2/Screen%20Shot%202017-07-05%20at%206.32.29%20PM.png/ELTely0YrcoBIAIoAg/XPHkU5TCn0GCUQIMYGmM0rCkTAtairSzSGzG2rzxgpk?size=2048x1536&size_mode=3 "Code Organization"
+[logo]: http://edisonjimenez.com/images/Screen%20Shot%202017-07-05%20at%206.32.29%20PM.png "Code Organization"
 
 # Final product
-[logo]: https://photos-3.dropbox.com/t/2/AACaWMYZbZ2bXW-3TQnEFb2GBpE_uNPjSAWoXGO8t6FiaQ/12/58481139/png/32x32/1/_/1/2/Screenshot%20(Jul%205%2C%202017%206_31_52%20PM).png/ELTely0YrcoBIAIoAg/8T0NLGD9PaiCmTI49amudOzu9Z5zNjq5YYgTKkxQC_4?size=2048x1536&size_mode=3 "App Screenshot"
+[logo]: http://edisonjimenez.com/images/Screenshot%20(Jul%205,%202017%206_31_52%20PM).png "App Screenshot"
