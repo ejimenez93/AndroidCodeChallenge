@@ -39,11 +39,12 @@ All milestones required from the project description were achieved in this code 
 
 # Choices made
 I used a simple GuideApi interface implementation with Retrofit (see: GuideApi.java)
-All of the response from the API endpoint was used in this challenge, in a production environment -- it would be best to paginate and implement some sort of endless scrolling for
+All of the response from the API endpoint was used in this challenge, in a production environment -- it would be best to paginate and implement some sort of endless scrolling. With some fooling around, it seems that the API is able to accept query parameters such as ``page`` and ``offset`` which would allow for more results.
+
 Click event listeners weren't added into each item for the sake of time. Ideally, given that the app might need a future "in-detail" screen, adding a click event listener to load more information about a "Guide" would be ideal
 The response from the API above doesn't include "Venues" but a mock "Venue" object was made in the case that the response included the referenced venue. The code will show a Guide's city and state if it exists within the response, otherwise we hide it (see: GuideViewHolder.java)
 
-If more time was allowed, I would also revamp the UI a bit with more branding colors and specific fonts used by a company's brand.
+If more time was allowed, I would also revamp the UI a bit with more branding colors and specific fonts used by a company's brand. Same goes for implementing a more appropriate app name + icon.
 
 # Code Organization
 ![alt tag](http://edisonjimenez.com/images/Screen%20Shot%202017-07-05%20at%206.32.29%20PM.png)
